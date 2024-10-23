@@ -1,0 +1,22 @@
+<html>
+   <head>
+        <title>my new web page</title>
+    </head>
+    <body>
+        <h1> <i> lendi </i></h1>
+        <img src="https://www.google.com/search?client=opera&hs=6mk&sca_esv=561023782&sxsrf=AB5stBj_k4Qaark4o3rinV7JeD1NDtHBSg:1693324956920&q=lendi&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi3yq6En4KBAxXZ4TgGHbRNDXQQ0pQJegQIChAB&biw=1220&bih=662&dpr=1.5">
+        <p style="color: aqua;">lendi institue of engineering and technology is best no 2 college in the vishikapatanam gthe city of destiny </p>
+        <h2><b>about branches in lite</b></h2>
+        <li>branches</li>
+        <ol>cse
+            ece 
+            eee 
+            mech
+            csse
+            csit
+        </ol>
+        <h3><u>about cse branch</u></h3>
+        <p style="color: blanchedalmond;"> cse the most depend branch in lendi and it is the branch whwere we can leran things easily and gain knowledge</p>
+        <img src =https://www.google.com/search?client=opera&hs=Kwk&sca_esv=561023782&sxsrf=AB5stBinMJZaPMCTVC9OUTCWWA4D67SQiQ:1693325528605&q=cse+in+lendi&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj41fuUoYKBAxW4yzgGHQ-0B1UQ0pQJegQIDhAB&biw=1220&bih=662&dpr=1.5#imgrc=ITEn6mYYilbrlM>
+    </body>
+    </html>
